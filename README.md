@@ -11,3 +11,9 @@ Steganography(1)                HELP MENU
 
 ./lsb_steg: Decoding: ./lsb_steg -d <.bmp_file> [output file]
                                                                     Steganography(1)
+
+Encoder Console o/p:
+![encoder](ScreenShots/Encoding.png)
+
+Decoder Console o/p:
+![decoder](ScreenShots/Decoding.png)
