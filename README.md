@@ -32,5 +32,5 @@ What steganography essentially does is exploit human perception, human senses ar
 
 ### References
 1. [Wikipedia – Steganography](https://en.wikipedia.org/wiki/Steganography)
-2. [Image – What is a BMP image](https://en.wikipedia.org/wiki/BMP)
+2. [Image – What is a BMP image](https://en.wikipedia.org/wiki/BMP_file_format)
 3. [Download project specification in pdf](DesignDoc/Steganography-Abstract.pdf)
